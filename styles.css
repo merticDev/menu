@@ -2,7 +2,7 @@
 
 :root{
     --lightGreen: #606c38;
-    --darkGreen: #283618;
+    --darkGreen: rgb(40, 54, 24);
     --light: #fefae0;
     --lightOrange: #dda15e;
     --darkOrange: #bc6c25;
